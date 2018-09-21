@@ -1,0 +1,35 @@
+_repo: Sir-Ian-Hamilton-s-Despatches-from-the-Dardanelles-etc_53959
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Wood, Evelyn
+    alias: Wood, Henry Evelyn
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '47794'
+    url: http://www.gutenberg.org/2009/agents/47794
+creator:
+  author:
+    agent_name: Hamilton, Ian
+    alias: Hamilton, Ian Standish Monteith, Sir
+    birthdate: 1853
+    deathdate: 1947
+    gutenberg_agent_id: '8595'
+    url: http://www.gutenberg.org/2009/agents/8595
+    wikipedia: http://en.wikipedia.org/wiki/Ian_Standish_Monteith_Hamilton
+description: ''
+gutenberg_issued: '2017-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53959'
+  lccn: '15025515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula'
+- !lcc 'D501'
+- GITenberg
+title: Sir Ian Hamilton's Despatches from the Dardanelles, etc.
+url: http://www.gutenberg.org/ebooks/53959
